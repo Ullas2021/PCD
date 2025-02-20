@@ -1,0 +1,546 @@
+# Loading project pbit
+# reading /opt/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project seq_test_v2
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+vsim work.seq_test_tb
+# vsim work.seq_test_tb 
+# Start time: 00:17:07 on Apr 15,2024
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+add wave -position end  sim:/seq_test_tb/seq1/CLK
+add wave -position end  sim:/seq_test_tb/seq1/RST
+add wave -position end  sim:/seq_test_tb/seq1/arb_seq_count
+add wave -position end  sim:/seq_test_tb/seq1/clk3_count
+add wave -position end  sim:/seq_test_tb/seq1/update_sequence
+run
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v failed with 4 errors.
+# 2 compiles, 1 failed with 4 errors.
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v failed with 6 errors.
+# 2 compiles, 1 failed with 6 errors.
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v failed with 4 errors.
+# 2 compiles, 1 failed with 4 errors.
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+# Warning in wave window restart: (vish-4014) No objects found matching '/seq_test_tb/seq1/arb_seq_count'. 
+# Warning in wave window restart: (vish-4014) No objects found matching '/seq_test_tb/seq1/clk3_count'. 
+run
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v failed with 6 errors.
+# 2 compiles, 1 failed with 6 errors.
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+add wave -position end  sim:/seq_test_tb/seq1/arb_seq_count
+add wave -position end  sim:/seq_test_tb/seq1/clk3_count
+run
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v failed with 3 errors.
+# 2 compiles, 1 failed with 3 errors.
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+run
+# Break key hit
+# Break in Module seq_test_v2 at /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/seq_test_v2.v line 10
+# WARNING: No extended dataflow license exists
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v failed with 2 errors.
+# 2 compiles, 1 failed with 2 errors.
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+run
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+run
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+run
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+run
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+run
+restart
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+run
+# Compile of seq_test2_tb.v was successful.
+# Compile of seq_test_v2.v was successful.
+# 2 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.seq_test_tb
+# Loading work.seq_test_v2
+run
+quit -sim
+# End time: 02:21:09 on Apr 15,2024, Elapsed time: 2:04:02
+# Errors: 0, Warnings: 1
+# reading /opt/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project 2-bit-multiplier
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v was successful.
+# 7 compiles, 0 failed with no errors.
+vsim work.pbit_tb
+# vsim work.pbit_tb 
+# Start time: 02:22:10 on Apr 15,2024
+# Loading work.pbit_tb
+# Loading work.Top_level
+# Loading work.pbit
+# Loading work.LFSR
+# Loading work.tanh_LUT
+# Loading work.qmult
+# Loading work.qadd
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[0]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[1]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[2]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[3]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[4]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[5]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[6]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[7]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+add wave -position end  sim:/pbit_tb/count
+add wave -position end  sim:/pbit_tb/clk_div24
+add wave -position 1  sim:/pbit_tb/CLK
+add wave -position 1  sim:/pbit_tb/RST
+add wave -position end  sim:/pbit_tb/TT/update_sequence
+run
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.pbit_tb
+# Loading work.Top_level
+# Loading work.pbit
+# Loading work.LFSR
+# Loading work.tanh_LUT
+# Loading work.qmult
+# Loading work.qadd
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[0]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[1]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[2]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[3]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[4]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[5]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[6]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+# ** Warning: (vsim-3015) [PCDPC] - Port size (7) does not match connection size (1) for port 'b'. The port definition is at: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/qadd.v(28).
+#    Time: 0 ps  Iteration: 0  Instance: /pbit_tb/TT/adders[7]/genblk1[7]/genblk1/add_final_z File: /home/ullas/Probabilistic-Computer-Design/pbit/4-bit-multiplier/top_level.v Line: 195
+run
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.pbit_tb
+# Loading work.Top_level
+# Loading work.pbit
+# Loading work.LFSR
+# Loading work.tanh_LUT
+# Loading work.qmult
+# Loading work.qadd
+run
+# WARNING: No extended dataflow license exists
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v failed with 4 errors.
+# 7 compiles, 1 failed with 4 errors.
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v failed with 2 errors.
+# 7 compiles, 1 failed with 2 errors.
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.pbit_tb
+# Loading work.Top_level
+# Loading work.pbit
+# Loading work.LFSR
+# Loading work.tanh_LUT
+# Loading work.qmult
+# Loading work.qadd
+add wave -position end  sim:/pbit_tb/count
+run
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.pbit_tb
+# Loading work.Top_level
+# Loading work.pbit
+# Loading work.LFSR
+# Loading work.tanh_LUT
+# Loading work.qmult
+# Loading work.qadd
+add wave -position end  sim:/pbit_tb/TT/const_bias
+# Drop insertion failed: sim:/pbit_tb/TT/const_bias
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/const_bias'.
+add wave -position end  sim:/pbit_tb/TT/w
+# Drop insertion failed: sim:/pbit_tb/TT/w
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/w'.
+add wave -position end  sim:/pbit_tb/TT/const_bias
+# Drop insertion failed: sim:/pbit_tb/TT/const_bias
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/const_bias'.
+add wave -position end  sim:/pbit_tb/TT/w
+# Drop insertion failed: sim:/pbit_tb/TT/w
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/w'.
+run
+add wave -position end  sim:/pbit_tb/TT/const_bias
+# Drop insertion failed: sim:/pbit_tb/TT/const_bias
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/const_bias'.
+add wave -position end  sim:/pbit_tb/TT/w
+# Drop insertion failed: sim:/pbit_tb/TT/w
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/w'.
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v was successful.
+# 7 compiles, 0 failed with no errors.
+quit -sim
+# End time: 17:04:46 on Apr 15,2024, Elapsed time: 14:42:36
+# Errors: 0, Warnings: 2
+vsim work.pbit_tb
+# vsim work.pbit_tb 
+# Start time: 17:04:51 on Apr 15,2024
+# Loading work.pbit_tb
+# Loading work.Top_level
+# Loading work.pbit
+# Loading work.LFSR
+# Loading work.tanh_LUT
+# Loading work.qmult
+# Loading work.qadd
+add wave -position end  sim:/pbit_tb/count
+add wave -position end  sim:/pbit_tb/TT/const_bias
+# Drop insertion failed: sim:/pbit_tb/TT/const_bias
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/const_bias'.
+add wave -position end  sim:/pbit_tb/TT/w
+# Drop insertion failed: sim:/pbit_tb/TT/w
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/w'.
+add wave -position end  sim:/pbit_tb/TT/I
+add wave -position end  sim:/pbit_tb/TT/w
+# Drop insertion failed: sim:/pbit_tb/TT/w
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/w'.
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v failed with 2 errors.
+# 7 compiles, 1 failed with 2 errors.
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v was successful.
+# 7 compiles, 0 failed with no errors.
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.pbit_tb
+# Loading work.Top_level
+# Loading work.pbit
+# Loading work.LFSR
+# Loading work.tanh_LUT
+# Loading work.qmult
+# Loading work.qadd
+add wave -position end  sim:/pbit_tb/TT/const_bias
+# Drop insertion failed: sim:/pbit_tb/TT/const_bias
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/const_bias'.
+add wave -position end  sim:/pbit_tb/TT/w
+# Drop insertion failed: sim:/pbit_tb/TT/w
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/w'.
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.pbit_tb
+# Loading work.Top_level
+# Loading work.pbit
+# Loading work.LFSR
+# Loading work.tanh_LUT
+# Loading work.qmult
+# Loading work.qadd
+add wave -position end  sim:/pbit_tb/TT/const_bias
+# Drop insertion failed: sim:/pbit_tb/TT/const_bias
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/const_bias'.
+add wave -position end  sim:/pbit_tb/TT/w
+# Drop insertion failed: sim:/pbit_tb/TT/w
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/w'.
+run
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# 6 compiles, 1 failed with no errors.
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.sv was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.pbit_tb
+# Loading sv_std.std
+# Loading work.Top_level
+# Loading work.pbit
+# Loading work.LFSR
+# Loading work.tanh_LUT
+# Loading work.qmult
+# Loading work.qadd
+run
+add wave -position end  sim:/pbit_tb/TT/const_bias
+add wave -position end  sim:/pbit_tb/TT/w
+restart
+run
+restart
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.sv was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.pbit_tb
+# Loading work.Top_level
+# Loading work.pbit
+# Loading work.LFSR
+# Loading work.tanh_LUT
+# Loading work.qmult
+# Loading work.qadd
+run
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v was successful.
+# 7 compiles, 0 failed with no errors.
+restart
+# ** Note: (vsim-12125) Error and warning message counts have been reset to '0' because of 'restart'.
+# Loading work.pbit_tb
+# Loading work.Top_level
+# Loading work.pbit
+# Loading work.LFSR
+# Loading work.tanh_LUT
+# Loading work.qmult
+# Loading work.qadd
+run
+restart
+add wave -position end  sim:/pbit_tb/TT/const_bias
+# Drop insertion failed: sim:/pbit_tb/TT/const_bias
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/const_bias'.
+add wave -position end  sim:/pbit_tb/TT/w
+# Drop insertion failed: sim:/pbit_tb/TT/w
+# ** UI-Msg: (vish-4014) No objects found matching '/pbit_tb/TT/w'.
+run
+quit -sim
+# End time: 01:44:45 on Apr 16,2024, Elapsed time: 8:39:54
+# Errors: 0, Warnings: 1
+# reading /opt/intelFPGA/20.1/modelsim_ase/linuxaloem/../modelsim.ini
+# Loading project result-2-bit-mul
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v failed with 1 errors.
+# 7 compiles, 1 failed with 1 error.
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v failed with 6 errors.
+# 7 compiles, 1 failed with 6 errors.
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v failed with 2 errors.
+# 7 compiles, 1 failed with 2 errors.
+# Compile of LFSR.v was successful.
+# Compile of p_bit.v was successful.
+# Compile of pbit_tb.v was successful.
+# Compile of qadd.v was successful.
+# Compile of qmult.v was successful.
+# Compile of tanh_LUT.v was successful.
+# Compile of top_level.v was successful.
+# 7 compiles, 0 failed with no errors.
